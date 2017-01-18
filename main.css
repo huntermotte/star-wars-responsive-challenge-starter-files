@@ -1,0 +1,21 @@
+header {
+	background-color: orange;
+	margin-bottom: 40px;
+}
+
+.card {
+	border: 1px solid black;
+}
+
+.card-image {
+	width: 100%;
+}
+
+.card-content {
+	padding: 20px;
+}
+
+.card-content h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
